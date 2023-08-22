@@ -1,4 +1,4 @@
-# repositorio para practicar git-pull
+# repositorio para practicar git-pull (curso Git y Github)
 
 este repositorio para practicar git-pull
 
